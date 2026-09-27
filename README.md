@@ -16,6 +16,14 @@
 
 ---
 
+## 📈 Finance × technology
+
+I’m a B.Com student and aspiring Portfolio Manager, interested in the intersection of finance and technology. I’m a CFA Level I candidate, with interests in Python, financial modeling, and investment research.
+
+This is where I’ll share projects and ideas as I explore those interests.
+
+---
+
 ## ✨ A little about this corner
 
 This is my home base for projects, experiments, and ideas in progress. Have a look around, follow what catches your eye, and feel free to say hello through GitHub.
