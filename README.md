@@ -10,6 +10,7 @@
 
 [![Explore repositories](https://img.shields.io/badge/Explore-repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arsh-WINsingh?tab=repositories)
 [![Recent activity](https://img.shields.io/badge/See-activity-0969DA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arsh-WINsingh?tab=activity)
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arshjitsingh12/)
 [![My profile](https://img.shields.io/badge/Find-me%20on%20GitHub-6C63FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arsh-WINsingh)
 
 </div>
